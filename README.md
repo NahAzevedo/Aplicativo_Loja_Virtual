@@ -1,7 +1,20 @@
 # lojavirtual
-Aplicativo de Loja Virtual em Flutter com Firebase
+Aplicativo de Loja Virtual de cosméticos  com Firebase.
+
+Informações:
+Projeto criado com o objetivo de desenvolver habilidades em desenvolvimento de aplicativos com Flutter.
+ 
+Funções em funcionamento:
+Login
+Cadastro de novo usuário
+Carrinho
 
 
+Linguagens e Ferramentas:
+ Flutter
+ Dardo
+
+Telas: 
 ![1](https://user-images.githubusercontent.com/87239861/125846339-1320aa74-93bc-40a5-8837-d80df69edc00.png)
 ![2](https://user-images.githubusercontent.com/87239861/125846348-c5211d8d-fdae-4704-ad50-648b59201607.png)
 ![3](https://user-images.githubusercontent.com/87239861/125846350-0113d9c3-2a5f-45cd-847c-078060b807d4.png)
