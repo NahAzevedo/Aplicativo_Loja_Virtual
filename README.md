@@ -1,20 +1,26 @@
-# lojavirtual
-Aplicativo de Loja Virtual de cosméticos  com Firebase.
+#  Aplicativo - Loja de Cosméticos Naturais 🌱
+Aplicativo utilizando o banco de dados Firebase.
 
-Informações:
-Projeto criado com o objetivo de desenvolver habilidades em desenvolvimento de aplicativos com Flutter.
+## Informações:
+- Projeto criado com o objetivo de desenvolver habilidades em desenvolvimento de aplicativos com Flutter e Firebase. <p>
+- Status: completo.
+
+## Funcionalidades:
+ - [x] Login
+ - [x] Login com a conta do google
+ - [x] Cadastro de novo usuário
+ - [x] Carrinho
+ - [x] Exibição de produtos cadastrados no Firebase
+ - [x] Exibição de categorias cadastradas no Firebase
+ - [x] Acompanhamento do pedido
+
  
-Funções em funcionamento:
-Login
-Cadastro de novo usuário
-Carrinho
+## Linguagens e Ferramentas:
+ - Flutter 
+ - Dart
+ - Firebase
 
-
-Linguagens e Ferramentas:
- Flutter
- Dardo
-
-Telas: 
+## Telas:  
 ![1](https://user-images.githubusercontent.com/87239861/125846339-1320aa74-93bc-40a5-8837-d80df69edc00.png)
 ![2](https://user-images.githubusercontent.com/87239861/125846348-c5211d8d-fdae-4704-ad50-648b59201607.png)
 ![3](https://user-images.githubusercontent.com/87239861/125846350-0113d9c3-2a5f-45cd-847c-078060b807d4.png)
@@ -25,3 +31,6 @@ Telas:
 ![8](https://user-images.githubusercontent.com/87239861/125846365-c1a850b5-1d60-4f13-9c94-97b28766b7b8.png)
 ![9](https://user-images.githubusercontent.com/87239861/125846367-8930a0f2-2c1f-441f-947d-b060eefadd1e.png)
 ![10](https://user-images.githubusercontent.com/87239861/125846370-a9a61c76-d00d-4182-bd2b-b8d0362bd4d2.png)
+  
+ ---
+  Made with 💜 by NahAzevedo - LinkedIn: https://www.linkedin.com/in/nayaradeazevedoleal/
